@@ -1,0 +1,5 @@
+export const PHONE_DISPLAY = '+38 (063) 240-70-07'
+export const PHONE_TEL = 'tel:+380632407007'
+export const VIBER_LINK = 'viber://chat?number=%2B380632407007'
+export const TELEGRAM_LINK = 'https://t.me/zamokservices'
+export const EMAIL = 'info@zamokservices.com'

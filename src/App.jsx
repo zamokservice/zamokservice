@@ -10,6 +10,7 @@ import Geo from './components/Geo'
 import Reviews from './components/Reviews'
 import Faq from './components/Faq'
 import OrderForm from './components/OrderForm'
+import About from './components/About'
 import Footer from './components/Footer'
 
 export default function App() {
@@ -26,6 +27,7 @@ export default function App() {
         <Reviews />
         <Faq />
         <OrderForm />
+        <About />
       </main>
       <Footer />
       <a href={PHONE_TEL} className="fab" aria-label="Call">📞</a>

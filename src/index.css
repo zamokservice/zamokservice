@@ -432,6 +432,18 @@ h3 { font-size: 1.12rem; }
 }
 .order__links { display: flex; gap: 12px; flex-wrap: wrap; }
 
+/* ===== About ===== */
+.about__text {
+  color: var(--text-muted);
+  font-size: .97rem;
+  line-height: 1.7;
+}
+.about__phone {
+  color: var(--navy);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
 /* ===== Footer ===== */
 .footer {
   background: #0a1320;
